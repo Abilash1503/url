@@ -1,4 +1,4 @@
-const apiKey = ''; //Create an API key on rebrandly.com
+const apiKey = '79258ff7bde2418fa9b33130dd326d54'; //Create an API key on rebrandly.com
 const url = "https://api.rebrandly.com/v1/links";
 
 const inputField = document.getElementById("input");
